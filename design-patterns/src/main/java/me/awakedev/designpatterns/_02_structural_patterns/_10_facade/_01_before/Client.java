@@ -31,4 +31,5 @@ public class Client {
             e.printStackTrace();
         }
     }
+    //이메일 보내는 역할 , 설정하는 부분(host) , 이메일 정보 3가지로 기능을 구분 할 수 있을거같다.
 }
